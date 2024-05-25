@@ -1,8 +1,5 @@
 //要素の取得 → クリックされたとき
-
-
-
-document.getElementById('').addEventListener('click',function(){
+document.getElementById('0').addEventListener('click',function(){
     //要素の取得 → 背景色を変える
-    document.getElementById('').style.background='blue';
+    document.getElementById('0').style.background='bule';
   });
